@@ -1,0 +1,28 @@
+{
+  "name": "simple-gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for compiling smart landing pages using gulp, pug, scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-data": "^1.3.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "pump": "^3.0.0"
+  },
+  "author": "Alex Melnik",
+  "license": "MIT"
+}
