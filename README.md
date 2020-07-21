@@ -1,4 +1,4 @@
-# gulp-pug-scss-boilerplate
+# simple-gulp-boilerplate
 
 1. Clone repo with `git clone https://github.com/amelnik92f/simple-gulp-boilerplate.git`
 2. Open project in your terminal with `cd simple-gulp-boilerplate`
