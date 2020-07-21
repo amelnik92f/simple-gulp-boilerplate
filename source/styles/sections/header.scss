@@ -1,8 +1,4 @@
-@import "../shared/index";
-
 header {
   background: blue;
   width: 40%;
-  @include centeredAndPadded();
-  color: $primary;
 }
